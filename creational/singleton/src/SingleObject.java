@@ -13,7 +13,7 @@ public class SingleObject {
         return instance;
     }
 
-    /// Function to tell that we done the singleton pattern
+
     public  void print() {
         System.out.println("Done singleton pattern");
     }

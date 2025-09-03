@@ -1,4 +1,4 @@
-# Adapter Design Pattern (Obsidian Notes)
+# Adapter Design Pattern 
 
 ## 📌 Intent
 The **Adapter Pattern** is a structural design pattern that allows incompatible interfaces to work together.  

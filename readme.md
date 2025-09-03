@@ -61,6 +61,7 @@ design-patterns/
 ### 🔹 Creational Patterns
 - **Singleton Pattern** → Used to create only one instance of an object  
 - **Factory Pattern** → Used to create an object based on specific info  
+- **Abstract Factory Pattern** → Used work around with super-factory which creates other factories 
 - **Builder Pattern** → Used to create a complex object from simpler ones  
 - **Prototype Pattern** → Used to cache complex  objects to reuse it  
 
